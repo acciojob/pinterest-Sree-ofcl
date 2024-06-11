@@ -15,6 +15,12 @@
 .hero h1{
 	padding: 15px;
 }
+
+.hero p{
+	padding: 15px;
+	margin-top: 0px; 
+}
+
 .explore-btn {
   padding: 15px 30px;
   background-color: red;
