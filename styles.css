@@ -12,6 +12,9 @@
   object-fit: cover;
 }
 
+.hero h1{
+	padding: 15px;
+}
 .explore-btn {
   padding: 15px 30px;
   background-color: red;
